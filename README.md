@@ -1,4 +1,4 @@
-# SHRIRAAM-T
+
 #include <stdio.h>
 double Vgs=-1.5;
 double Vp=-2.0;
